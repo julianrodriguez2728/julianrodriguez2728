@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianrodriguez2728&label=Profile%20views&color=0e75b6&style=flat" alt="julianrodriguez2728" /> </p>
-<img src="https://www.canva.com/design/DAFlGGCnpO0/ZxAIbnd6CbDH-UAfaq0wVA/view?utm_content=DAFlGGCnpO0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+![Uploading Diseño sin título.gif…]()
+
 - 🔭 I’m currently working on **Individual project about Dogs**
 
 - 🌱 I’m currently learning **React.js and Typescript**
