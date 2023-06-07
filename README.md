@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm julian rodriguez</h1>
 <h3 align="center">Full Stack Developer</h3>
-![Uploading Diseño sin título.gif…]()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianrodriguez2728&label=Profile%20views&color=0e75b6&style=flat" alt="julianrodriguez2728" /> </p>
+![Uploading Diseño sin título.gif…]()
 
 
 - 🔭 I’m currently working on **Individual project about Dogs**
