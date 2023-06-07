@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianrodriguez2728&label=Profile%20views&color=0e75b6&style=flat" alt="julianrodriguez2728" /> </p>
 ![Uploading Diseño sin título.gif…]()
 
+![homer_lurking](https://github.com/julianrodriguez2728/julianrodriguez2728/assets/106877715/2f084df7-05fb-4710-945b-8967f0a8de32)
 
 - 🔭 I’m currently working on **Individual project about Dogs**
 
